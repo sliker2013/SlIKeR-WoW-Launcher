@@ -1,0 +1,36 @@
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Release\launcher.exe.config
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Release\launcher.exe
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Release\launcher.pdb
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Release\MySql.Data.dll
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Release\launcher.Properties.Resources.resources
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Release\launcher.csproj.GenerateResource.Cache
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Release\launcher.exe
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Release\launcher.pdb
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Release\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Paul Cosma\Documents\Visual Studio 2015\Projects\launcher\launcher\obj\Release\launcher.Main.resources
+C:\Users\Paul Cosma\Documents\Visual Studio 2015\Projects\launcher\launcher\obj\Release\launcher.Search.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Release\launcher.exe.config
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Release\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Release\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.Main.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.PlayersOnline.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Release\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Release\launcher.exe.config
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Release\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Release\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Release\MySql.Data.dll
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.Main.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.PlayersOnline.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.csproj.GenerateResource.Cache
+C:\Users\SlIKeR-Dev\Desktop\Truice_v2.0.0\Neuer Ordner\Neuer Ordner\launcher\bin\Release\launcher.exe.config
+C:\Users\SlIKeR-Dev\Desktop\Truice_v2.0.0\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.exe
+C:\Users\SlIKeR-Dev\Desktop\Truice_v2.0.0\Neuer Ordner\Neuer Ordner\launcher\obj\Release\launcher.pdb

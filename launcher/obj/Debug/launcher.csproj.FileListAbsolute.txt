@@ -1,0 +1,25 @@
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Debug\launcher.exe.config
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Debug\launcher.exe
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Debug\launcher.pdb
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\bin\Debug\MySql.Data.dll
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Debug\launcher.Properties.Resources.resources
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.Cache
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Debug\launcher.exe
+c:\users\paul cosma\documents\visual studio 2015\Projects\launcher\launcher\obj\Debug\launcher.pdb
+C:\Users\Paul Cosma\Documents\Visual Studio 2015\Projects\launcher\launcher\obj\Debug\launcher.Main.resources
+C:\Users\Paul Cosma\Documents\Visual Studio 2015\Projects\launcher\launcher\obj\Debug\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Paul Cosma\Documents\Visual Studio 2015\Projects\launcher\launcher\obj\Debug\launcher.PlayersOnline.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Debug\launcher.exe.config
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Debug\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Debug\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.Main.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.PlayersOnline.resources
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\launcher.pdb
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Debug\launcher.exe.config
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Debug\launcher.exe
+C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Debug\launcher.pdb

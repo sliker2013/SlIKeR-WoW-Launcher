@@ -23,3 +23,6 @@ C:\Users\Administrator\Desktop\Neuer Ordner\jeakzs-launcher\launcher\obj\Debug\l
 C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\bin\Debug\launcher.exe.config
 C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Debug\launcher.exe
 C:\Users\Administrator\Desktop\Neuer Ordner\Neuer Ordner\launcher\obj\Debug\launcher.pdb
+F:\Media\Source\Github\SlIKeR-WoW-Launcher\launcher\bin\Debug\launcher.exe.config
+F:\Media\Source\Github\SlIKeR-WoW-Launcher\launcher\obj\Debug\launcher.exe
+F:\Media\Source\Github\SlIKeR-WoW-Launcher\launcher\obj\Debug\launcher.pdb
